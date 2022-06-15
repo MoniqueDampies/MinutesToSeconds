@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif;
+  border: none; 
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;   
+  font-weight: 500;
+  font-size: large; 
+  background-color: #f08080;
+}
+
+h1{
+    color: white;
+}
+.form-group{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    padding: 10px;
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #d87373, #ff8989);
+    box-shadow:  6px 6px 12px #d16f6f,
+                 -6px -6px 12px #ff9191;
+}
+
+.form-control{
+    border: none; 
+    border-style: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 20px;
+    border-radius: 10px;
+    box-shadow:  6px 6px 12px #d16f6f,
+                 -6px -6px 12px #ff9191;
+
+}
+
+#inputMinutes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    box-shadow:  6px 6px 12px #d16f6f,
+                 -6px -6px 12px #ff9191;
+
+}
+
+#inputSeconds{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    box-shadow:  6px 6px 12px #d16f6f,
+                 -6px -6px 12px #ff9191;
+
+}
