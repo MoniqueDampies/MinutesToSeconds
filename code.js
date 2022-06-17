@@ -1,4 +1,3 @@
-
 function secConverter(valNum) {
     valNum = parseFloat(valNum);
     document.getElementById("inputMinutes").value = valNum/60;}
